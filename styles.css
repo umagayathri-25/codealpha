@@ -1,0 +1,42 @@
+body{
+    background-color: grey;
+}
+#convert{
+    margin:5px;
+    background-color:brown;
+    border:1px solid rgba(24,30,35,.15);
+    box-sizing: border-box;
+    box-shadow: 1px;
+    color:bisque;
+    -webkit-user--select:none;
+    vertical-align: middle;
+    white-space:nowrap;
+}
+#clear{
+    margin:5px;
+    background-color:brown;
+    border:1px solid rgba(24,30,35,.15);
+    box-sizing: border-box;
+    box-shadow: 1px;
+    color:beige;
+    -webkit-user--select:none;
+    vertical-align: middle;
+    white-space:nowrap;
+}
+#convert:hover{
+    background-color: yellowgreen;
+}
+#clear:hover{
+    background-color: yellowgreen;
+}
+h1{
+    display:block;
+    padding:10px;
+    margin:10px;
+}
+::-webkit-input-placeholder{
+    color:brown;
+}
+::-webkit-input-placeholder{
+    color:brown;
+}
